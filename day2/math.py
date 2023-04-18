@@ -6,6 +6,8 @@
 # Subtraction
 7 - 4 # 3
 
+# -- day 2 -- #
+
 # Divison
 6 / 3 # Aways return a type float - 2.00
 

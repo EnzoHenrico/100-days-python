@@ -1,3 +1,5 @@
+# -- day 2 -- #
+
 # ----- Type checking ----- #
 
 # the type() function can return exactly the type of data you pass as parametter

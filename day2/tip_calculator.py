@@ -1,3 +1,5 @@
+# -- day 2 -- #
+
 #If the bill was $150.00, split between 5 people, with 12% tip.
 
 #Each person should pay (150.00 / 5) * 1.12 = 33.6
@@ -10,7 +12,7 @@
 def calculate_tip(total_bill, people_count, percent):
     each_bill = total_bill / people_count
     tip = each_bill * (percent / 100)
-    
+
     return "{:.2f}".format(round((each_bill + tip), 2))
 
 total_bill = float(input('What was the total bill? $'))

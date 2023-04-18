@@ -1,3 +1,5 @@
+# -- day 2 -- #
+
 # Primitive Data types
 
 # ----- Strings ----- #
